@@ -2,6 +2,12 @@
 
 Minimal setup to run the GamesPlay Django backend with Postgres using Docker Compose.
 
+## 📦 Prerequisites
+- Install [Docker Desktop](https://docs.docker.com/desktop/) on your machine.  
+  Docker Desktop provides both Docker Engine and Docker Compose, which are required to run the containers.
+
+---
+
 Steps to run:
 
 1. **Clone the repository**:
